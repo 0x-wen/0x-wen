@@ -3,7 +3,7 @@
 const aboutMe = {
    code: [Go, Python, Rust],
    work: ["Practitioners of the crypto world"],
-   sign: "Focus on code quality rather than token value",
+   sign: "Focus on code quality rather than token price",
 };
 ```
 
