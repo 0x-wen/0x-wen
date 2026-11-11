@@ -2,8 +2,9 @@
 ```javascript
 const aboutMe = {
    code: [Go, Python, Rust],
-   work: ["Practitioners of the crypto world"],
-   sign: "Focus on code quality rather than token price",
+   stack: ["LLMs", "MCP", "AI Agents"],
+   work: ["Building AI-native applications"],
+   sign: "Less hype, more intelligence. Ship what matters.",
 };
 ```
 
